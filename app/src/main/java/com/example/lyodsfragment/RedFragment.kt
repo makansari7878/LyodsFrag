@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
 class RedFragment : Fragment() {
-
+  // test
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
